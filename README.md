@@ -34,7 +34,12 @@ The deployment script interacts with a local Ethereum network (e.g., Ganache or 
 1. Install dependencies:
 
     ```bash
+    node --version
     yarn install
+    corepack enable
+    yarn add solc
+    
+    
     ```
 
 2. Update `.env` file with your RPC URL and private key.
