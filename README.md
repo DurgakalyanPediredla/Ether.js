@@ -21,7 +21,7 @@ The repository includes compiled artifacts for the `SimpleStorage` smart contrac
 
 ## Deployment Script
 
-The deployment script interacts with a local Ethereum network (e.g., Ganache or Sepoliatestnet thriugh Alchemy) to deploy the `SimpleStorage` smart contract using the provided ABI and binary files.
+The deployment script interacts with a local Ethereum network (e.g., Ganache or Sepoliatestnet through Alchemy) to deploy the `SimpleStorage` smart contract using the provided ABI and binary files.
 
 ## Prerequisites
 
